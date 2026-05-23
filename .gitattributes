@@ -1,7 +1,7 @@
 # Auto detect text files and perform LF normalization
-* text=auto
 *.ttf binary
-*.otf binary
 *.woff binary
 *.woff2 binary
+*.otf binary
 *.eot binary
+* text=auto
